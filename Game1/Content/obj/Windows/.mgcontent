@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/Images/bike.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/Images/topview_road.jpg</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/Images/street_topview.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/Bike_Pixel.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/grassfield_pixel.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/road_pixel.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/house_pixel.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/playground_pixel.png</File>
+    <File>C:/Users/Bliss/source/repos/Game1/Game1/Content/img/bikelevel/level1/playground_pixel_small.png</File>
+  </SourceFiles>
+</SourceFileCollection>
