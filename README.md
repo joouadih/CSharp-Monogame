@@ -1,7 +1,10 @@
+![4772066](https://user-images.githubusercontent.com/4427332/61470314-1df54780-a981-11e9-88a5-4cc86bce5465.png)
+
 # C#-Mono-Template
 A simple bike game, which can be used as a template for an Mono Game
 
-![4772066](https://user-images.githubusercontent.com/4427332/61470314-1df54780-a981-11e9-88a5-4cc86bce5465.png)
+![2019-07-18 17_32_14-](https://user-images.githubusercontent.com/4427332/61471138-85f85d80-a982-11e9-9b52-71d7e6e81f29.png)
+
 
 ## MonoGame Crashcourse
 The main class for a Mono Game is Game1.cs, which has five main functions that is necessary
