@@ -13,14 +13,15 @@ The main class for a Mono Game is Game1.cs, which has five main functions that i
     - Used to init data, for example graphics.PreferredBackBufferWidth = 1024 which means the width of the Window is 1024px.
     
   LoadContent
-    - Used to init sprites and images, for example spriteBatch = new SpriteBatch(GraphicsDevice) which means spriteBatch is         
+    - Used to init sprites and images, for example spriteBatch = new SpriteBatch(GraphicsDevice) which means spriteBatch is
       now hooked to the Graphic Engine and ready to render sprites.
     
   UnloadContent
     - Used to unload content properly. 
     
   Update
-    - This is where ALL game logic. You can alter the update frequency, but remember that DRAW function will also be updated         at the same frequency. 
+    - This is where ALL game logic. You can alter the update frequency, but remember that 
+      DRAW function will also be updated at the same frequency. 
       
   Draw
     - This is where all draw magic happends. So with spriteBatch.Draw("image",rectangle.. you can draw everything. 
